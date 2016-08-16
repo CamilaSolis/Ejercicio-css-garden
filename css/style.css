@@ -1,0 +1,109 @@
+body{
+	font-family: Tahoma;
+	background-color: #005956;
+}
+h1{
+	text-align: center;
+	background-color: #00A6A0;
+	color:#E9D5FF;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-size: 50px;
+	margin: 0px;
+}
+p {
+	color:white;
+}
+h3 {
+	text-align: center;
+	font-size: 30px;
+	color:#232323;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+}
+div .summary{
+	font-size: 20px;
+	text-align: center;
+}
+div .preamble{
+	border:8px white solid;
+	margin:5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 22.7%;
+	height: 570px;
+}
+div .explanation{
+	border:8px white solid;
+	margin:5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 22.7%;
+	height: 570px;
+}
+div .participation{
+	border:8px white solid;
+	margin: 5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 22.7%;
+	height: 570px;
+}
+div .benefits{
+	border:8px white solid;
+	margin: 5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 22.7%;
+	height: 570px;
+}
+div .requirements{
+	border:30px #005956 solid;
+	display: inline-block;
+	float: right;
+	background-color: #00A6A0;
+	height: 400px;
+}
+div .design-selection{
+	border:10px white solid;
+	margin: 5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 31%;
+	height: 300px;
+}
+div .design-archives{
+	border:10px white solid;
+	margin: 5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 31%;
+	height: 300px;
+}
+div .zen-resources{
+	border:10px white solid;
+	margin: 5px;
+	display: inline-block;
+	float: right;
+	background-color: #e62739;
+	width: 31%;
+	height: 300px;
+}
+footer {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 30px;
+	background-color: white;
+}
+a {
+	color:black;
+}
